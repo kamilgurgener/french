@@ -12,7 +12,7 @@ public class BilginStepDefinition {
 	
 	@Given("kullanici google ana sayfaya gider")
 	public void kullanici_google_ana_sayfaya_gider() {
-	    
+	    homepage.anasafya();
 	    
 	}
 
@@ -24,13 +24,13 @@ public class BilginStepDefinition {
 
 	@When("arama tusuna basar")
 	public void arama_tusuna_basar() {
-	    
+	    homepage.enterSearchButton();
 	    
 	}
 
 	@Then("bilgin ifadesinin gectigi tum sonuclar liste halinde ekranda gorunur")
 	public void bilgin_ifadesinin_gectigi_tum_sonuclar_liste_halinde_ekranda_gorunur() {
-	    
+	    homepage.validateList();
 	    
 	}
 	

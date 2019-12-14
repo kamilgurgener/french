@@ -12,38 +12,50 @@
         "steps": [
           {
             "result": {
-              "status": "undefined"
+              "duration": 8213555509,
+              "status": "passed"
             },
             "line": 5,
             "name": "kullanici google ana sayfaya gider",
-            "match": {},
+            "match": {
+              "location": "BilginStepDefinition.kullanici_google_ana_sayfaya_gider()"
+            },
             "keyword": "Given "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 615880591,
+              "status": "passed"
             },
             "line": 6,
             "name": "kullanici arama kutusuna bilgin yazar",
-            "match": {},
+            "match": {
+              "location": "BilginStepDefinition.kullanici_arama_kutusuna_bilgin_yazar()"
+            },
             "keyword": "When "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 2146817834,
+              "status": "passed"
             },
             "line": 7,
             "name": "arama tusuna basar",
-            "match": {},
+            "match": {
+              "location": "BilginStepDefinition.arama_tusuna_basar()"
+            },
             "keyword": "And "
           },
           {
             "result": {
-              "status": "undefined"
+              "duration": 824201410,
+              "status": "passed"
             },
             "line": 8,
             "name": "bilgin ifadesinin gectigi tum sonuclar liste halinde ekranda gorunur",
-            "match": {},
+            "match": {
+              "location": "BilginStepDefinition.bilgin_ifadesinin_gectigi_tum_sonuclar_liste_halinde_ekranda_gorunur()"
+            },
             "keyword": "Then "
           }
         ],

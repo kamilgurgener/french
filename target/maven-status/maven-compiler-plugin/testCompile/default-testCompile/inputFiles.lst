@@ -1,4 +1,5 @@
 /Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/utilities/TestingExcelUtil.java
+/Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/utilities/Hooks.java
 /Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/utilities/Driver.java
 /Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/utilities/ExcelUtil.java
 /Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/runners/CukesRunner.java
@@ -6,4 +7,5 @@
 /Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/stepdefinition/BilginStepDefinition.java
 /Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/utilities/DBUtils.java
 /Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/utilities/BrowserUtils.java
+/Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/pages/HomePage.java
 /Users/mac/Desktop/2019_QA/com.bilgin/src/test/java/com/bilgin/utilities/TestConstants.java

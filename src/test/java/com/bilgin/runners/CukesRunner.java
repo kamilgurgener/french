@@ -16,7 +16,7 @@ import cucumber.api.junit.Cucumber;
 		tags="@bunucalistir",
 		features= {"src/test/resources/features"}, 
 		glue= {"com/bilgin/stepdefinition"},
-		dryRun = true
+		dryRun = false
 		)
 public class CukesRunner {
 	

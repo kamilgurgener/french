@@ -1,11 +1,13 @@
 com/bilgin/stepdefinition/BilginStepDefinition.class
+com/bilgin/pages/HomePage.class
 com/bilgin/utilities/TestingExcelUtil.class
 com/bilgin/utilities/BrowserUtils$2.class
-com/bilgin/utilities/ExcelUtil.class
+com/bilgin/utilities/Hooks.class
 com/bilgin/utilities/BrowserUtils$1.class
-com/bilgin/runners/CukesRunner.class
-com/bilgin/utilities/DBUtils.class
-com/bilgin/utilities/ConfigurationReader.class
 com/bilgin/utilities/Driver.class
 com/bilgin/utilities/BrowserUtils.class
 com/bilgin/utilities/TestConstants.class
+com/bilgin/utilities/ExcelUtil.class
+com/bilgin/runners/CukesRunner.class
+com/bilgin/utilities/DBUtils.class
+com/bilgin/utilities/ConfigurationReader.class
