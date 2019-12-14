@@ -1,0 +1,64 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Kelime aratip liste yapmasini kontrol etme",
+        "description": "",
+        "id": "google-arama-ozelligi;kelime-aratip-liste-yapmasini-kontrol-etme",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "kullanici google ana sayfaya gider",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "kullanici arama kutusuna bilgin yazar",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "arama tusuna basar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "bilgin ifadesinin gectigi tum sonuclar liste halinde ekranda gorunur",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@bunucalistir"
+          }
+        ]
+      }
+    ],
+    "name": "Google Arama ozelligi",
+    "description": "",
+    "id": "google-arama-ozelligi",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/Homepage.feature",
+    "tags": []
+  }
+]
